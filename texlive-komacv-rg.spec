@@ -1,6 +1,6 @@
 Name:		texlive-komacv-rg
 Version:	49064
-Release:	1
+Release:	2
 Summary:	LaTeX packages that aid in creating CVs based on the komacv class and creating related documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/komacv-rg
