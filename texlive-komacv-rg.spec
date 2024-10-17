@@ -3,7 +3,7 @@ Version:	49064
 Release:	2
 Summary:	LaTeX packages that aid in creating CVs based on the komacv class and creating related documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/komacv-rg
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/komacv-rg
 License:	lppl1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/komacv-rg.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/komacv-rg.doc.r%{version}.tar.xz
